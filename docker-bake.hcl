@@ -1,5 +1,5 @@
 variable "USERNAME" {
-    default = "ashleykza"
+    default = "meredith"
 }
 
 variable "APP" {
